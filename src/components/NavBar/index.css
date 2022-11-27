@@ -1,0 +1,35 @@
+.nav-container {
+  height: 60px;
+  background-color: #b4b1ed;
+  padding-top: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px;
+  margin-bottom: 0px;
+  color: #ffffff;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.logo-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.logo-title {
+  font-size: 20px;
+  margin-left: 20px;
+}
+
+.score-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  width: 20%;
+  font-weight: bold;
+}

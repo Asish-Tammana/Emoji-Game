@@ -1,0 +1,47 @@
+.result-bg-card {
+  padding: 100px;
+  background-color: #b4a5e5;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.result-card {
+  background-color: #bdb2ec;
+  border: 2px solid #ffffff33;
+  border-radius: 10px;
+  width: 60%;
+  padding: 30px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.result-content {
+  width: 50%;
+  text-align: center;
+  color: #ffffff;
+}
+
+.result-img {
+  width: 50%;
+}
+
+.score-display {
+  color: #6a59ff;
+  margin-top: 0px;
+}
+
+.play-again {
+  padding: 15px;
+  background-color: #ffce27;
+  color: #3d3d3d;
+  font-weight: bold;
+  border-width: 0px;
+  border-radius: 10px;
+  cursor: pointer;
+}
